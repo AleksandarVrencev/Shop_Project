@@ -9,3 +9,15 @@ C:\Users\WINDOWS 10\Desktop\prodavnicaTVP\prodavnicaTVP\obj\Debug\prodavnicaTVP.
 C:\Users\WINDOWS 10\Desktop\prodavnicaTVP\prodavnicaTVP\obj\Debug\prodavnicaTVP.Form1.resources
 C:\Users\WINDOWS 10\Desktop\prodavnicaTVP\prodavnicaTVP\obj\Debug\prodavnicaTVP.FormaDodajProizvod.resources
 C:\Users\WINDOWS 10\Desktop\prodavnicaTVP\prodavnicaTVP\obj\Debug\prodavnicaTVP.FormaIzmeniProizvod.resources
+C:\Users\Aleksandar\Desktop\github\Shop_Project\prodavnicaTVP\bin\Debug\prodavnicaTVP.exe.config
+C:\Users\Aleksandar\Desktop\github\Shop_Project\prodavnicaTVP\bin\Debug\prodavnicaTVP.exe
+C:\Users\Aleksandar\Desktop\github\Shop_Project\prodavnicaTVP\bin\Debug\prodavnicaTVP.pdb
+C:\Users\Aleksandar\Desktop\github\Shop_Project\prodavnicaTVP\obj\Debug\prodavnicaTVP.csproj.AssemblyReference.cache
+C:\Users\Aleksandar\Desktop\github\Shop_Project\prodavnicaTVP\obj\Debug\prodavnicaTVP.Form1.resources
+C:\Users\Aleksandar\Desktop\github\Shop_Project\prodavnicaTVP\obj\Debug\prodavnicaTVP.FormaDodajProizvod.resources
+C:\Users\Aleksandar\Desktop\github\Shop_Project\prodavnicaTVP\obj\Debug\prodavnicaTVP.FormaIzmeniProizvod.resources
+C:\Users\Aleksandar\Desktop\github\Shop_Project\prodavnicaTVP\obj\Debug\prodavnicaTVP.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\github\Shop_Project\prodavnicaTVP\obj\Debug\prodavnicaTVP.csproj.GenerateResource.cache
+C:\Users\Aleksandar\Desktop\github\Shop_Project\prodavnicaTVP\obj\Debug\prodavnicaTVP.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\github\Shop_Project\prodavnicaTVP\obj\Debug\prodavnicaTVP.exe
+C:\Users\Aleksandar\Desktop\github\Shop_Project\prodavnicaTVP\obj\Debug\prodavnicaTVP.pdb
